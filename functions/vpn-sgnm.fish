@@ -7,5 +7,5 @@ function vpn-sgnm
 
 #     ~/.myscripts/vpn-sgnm/vpn-sgnm.sh
 
-    openfortivpn --config=/home/ndvour/.config/openfortivpn/config
+    sudo openfortivpn --config=/home/ndvour/.config/openfortivpn/config
 end
