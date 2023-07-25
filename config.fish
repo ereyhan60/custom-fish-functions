@@ -3,6 +3,7 @@
 #
 # Set default field separators
 #
+set -g EDITOR micro
 set -g fish_prompt_pwd_dir_length 0
 set TERM xterm-256color
 
